@@ -16,15 +16,15 @@ struct Target: Identifiable, Hashable {
 }
 
 // MARK: - Audio + Sender
-final class WLEDSender: ObservableObject {
+final class ILLUMIDELSender: ObservableObject {
     // Targets
     @Published var targets: [Target] = [
-        .init(host: "wled-mm.local", port: 11988)
+        .init(host: "illumidel-mm.local", port: 11988)
     ]
 
     // UDP connections (one per target)
     private var conns: [UUID: NWConnection] = [:]
-    private let queue = DispatchQueue(label: "wled.sender.queue")
+    private let queue = DispatchQueue(label: "illumidel.sender.queue")
 
     // Audio / DSP
     private let engine = AVAudioEngine()
@@ -336,7 +336,7 @@ struct BarView: View {
 
 // MARK: - UI
 struct ContentView: View {
-    @StateObject private var sender = WLEDSender()
+    @StateObject private var sender = ILLUMIDELSender()
     @State private var keepAwake = false
 
     @State private var newHost = ""
@@ -344,11 +344,11 @@ struct ContentView: View {
 
     var body: some View {
         VStack(spacing: 14) {
-            Text("Feed My WLED — iOS").font(.title.bold())
+            Text("Feed My ILLUMIDEL — iOS").font(.title.bold())
 
             // Add target
             HStack {
-                TextField("wled-mm.local or 192.168.x.x", text: $newHost)
+                TextField("illumidel-mm.local or 192.168.x.x", text: $newHost)
                     .textFieldStyle(.roundedBorder)
                     .keyboardType(.numbersAndPunctuation)
                     .autocapitalization(.none)
@@ -449,6 +449,6 @@ struct ContentView: View {
 }
 
 @main
-struct WLEDApp: App {
+struct ILLUMIDELApp: App {
     var body: some Scene { WindowGroup { ContentView() } }
 }

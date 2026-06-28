@@ -1,13 +1,13 @@
 //
-//  wled_micUITestsLaunchTests.swift
-//  wled-micUITests
+//  illumidel_micUITestsLaunchTests.swift
+//  illumidel-micUITests
 //
 //  Created by Alex Volkov on 8/20/25.
 //
 
 import XCTest
 
-final class wled_micUITestsLaunchTests: XCTestCase {
+final class illumidel_micUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

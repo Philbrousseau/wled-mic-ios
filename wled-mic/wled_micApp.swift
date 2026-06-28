@@ -1,6 +1,6 @@
 //
-//  wled_micApp.swift
-//  wled-mic
+//  illumidel_micApp.swift
+//  illumidel-mic
 //
 //  Created by Alex Volkov on 8/20/25.
 //
@@ -8,7 +8,7 @@
 //import SwiftUI
 //
 //@main
-//struct wled_micApp: App {
+//struct illumidel_micApp: App {
 //    var body: some Scene {
 //        WindowGroup {
 //            ContentView()

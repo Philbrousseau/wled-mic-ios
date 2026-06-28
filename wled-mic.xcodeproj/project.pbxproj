@@ -12,37 +12,37 @@
 			containerPortal = 3FFF89472E56172E0075EBE1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 3FFF894E2E56172E0075EBE1;
-			remoteInfo = "wled-mic";
+			remoteInfo = "illumidel-mic";
 		};
 		3FFF89672E56172F0075EBE1 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 3FFF89472E56172E0075EBE1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 3FFF894E2E56172E0075EBE1;
-			remoteInfo = "wled-mic";
+			remoteInfo = "illumidel-mic";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		3FFF894F2E56172E0075EBE1 /* wled-mic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "wled-mic.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3FFF895C2E56172F0075EBE1 /* wled-micTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "wled-micTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3FFF89662E56172F0075EBE1 /* wled-micUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "wled-micUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3FFF894F2E56172E0075EBE1 /* illumidel-mic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "illumidel-mic.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3FFF895C2E56172F0075EBE1 /* illumidel-micTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "illumidel-micTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3FFF89662E56172F0075EBE1 /* illumidel-micUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "illumidel-micUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		3FFF89512E56172E0075EBE1 /* wled-mic */ = {
+		3FFF89512E56172E0075EBE1 /* illumidel-mic */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "wled-mic";
+			path = "illumidel-mic";
 			sourceTree = "<group>";
 		};
-		3FFF895F2E56172F0075EBE1 /* wled-micTests */ = {
+		3FFF895F2E56172F0075EBE1 /* illumidel-micTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "wled-micTests";
+			path = "illumidel-micTests";
 			sourceTree = "<group>";
 		};
-		3FFF89692E56172F0075EBE1 /* wled-micUITests */ = {
+		3FFF89692E56172F0075EBE1 /* illumidel-micUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "wled-micUITests";
+			path = "illumidel-micUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -75,9 +75,9 @@
 		3FFF89462E56172E0075EBE1 = {
 			isa = PBXGroup;
 			children = (
-				3FFF89512E56172E0075EBE1 /* wled-mic */,
-				3FFF895F2E56172F0075EBE1 /* wled-micTests */,
-				3FFF89692E56172F0075EBE1 /* wled-micUITests */,
+				3FFF89512E56172E0075EBE1 /* illumidel-mic */,
+				3FFF895F2E56172F0075EBE1 /* illumidel-micTests */,
+				3FFF89692E56172F0075EBE1 /* illumidel-micUITests */,
 				3FFF89502E56172E0075EBE1 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -85,9 +85,9 @@
 		3FFF89502E56172E0075EBE1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3FFF894F2E56172E0075EBE1 /* wled-mic.app */,
-				3FFF895C2E56172F0075EBE1 /* wled-micTests.xctest */,
-				3FFF89662E56172F0075EBE1 /* wled-micUITests.xctest */,
+				3FFF894F2E56172E0075EBE1 /* illumidel-mic.app */,
+				3FFF895C2E56172F0075EBE1 /* illumidel-micTests.xctest */,
+				3FFF89662E56172F0075EBE1 /* illumidel-micUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,9 +95,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3FFF894E2E56172E0075EBE1 /* wled-mic */ = {
+		3FFF894E2E56172E0075EBE1 /* illumidel-mic */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3FFF89702E56172F0075EBE1 /* Build configuration list for PBXNativeTarget "wled-mic" */;
+			buildConfigurationList = 3FFF89702E56172F0075EBE1 /* Build configuration list for PBXNativeTarget "illumidel-mic" */;
 			buildPhases = (
 				3FFF894B2E56172E0075EBE1 /* Sources */,
 				3FFF894C2E56172E0075EBE1 /* Frameworks */,
@@ -108,18 +108,18 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				3FFF89512E56172E0075EBE1 /* wled-mic */,
+				3FFF89512E56172E0075EBE1 /* illumidel-mic */,
 			);
-			name = "wled-mic";
+			name = "illumidel-mic";
 			packageProductDependencies = (
 			);
-			productName = "wled-mic";
-			productReference = 3FFF894F2E56172E0075EBE1 /* wled-mic.app */;
+			productName = "illumidel-mic";
+			productReference = 3FFF894F2E56172E0075EBE1 /* illumidel-mic.app */;
 			productType = "com.apple.product-type.application";
 		};
-		3FFF895B2E56172F0075EBE1 /* wled-micTests */ = {
+		3FFF895B2E56172F0075EBE1 /* illumidel-micTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3FFF89732E56172F0075EBE1 /* Build configuration list for PBXNativeTarget "wled-micTests" */;
+			buildConfigurationList = 3FFF89732E56172F0075EBE1 /* Build configuration list for PBXNativeTarget "illumidel-micTests" */;
 			buildPhases = (
 				3FFF89582E56172F0075EBE1 /* Sources */,
 				3FFF89592E56172F0075EBE1 /* Frameworks */,
@@ -131,18 +131,18 @@
 				3FFF895E2E56172F0075EBE1 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				3FFF895F2E56172F0075EBE1 /* wled-micTests */,
+				3FFF895F2E56172F0075EBE1 /* illumidel-micTests */,
 			);
-			name = "wled-micTests";
+			name = "illumidel-micTests";
 			packageProductDependencies = (
 			);
-			productName = "wled-micTests";
-			productReference = 3FFF895C2E56172F0075EBE1 /* wled-micTests.xctest */;
+			productName = "illumidel-micTests";
+			productReference = 3FFF895C2E56172F0075EBE1 /* illumidel-micTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		3FFF89652E56172F0075EBE1 /* wled-micUITests */ = {
+		3FFF89652E56172F0075EBE1 /* illumidel-micUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3FFF89762E56172F0075EBE1 /* Build configuration list for PBXNativeTarget "wled-micUITests" */;
+			buildConfigurationList = 3FFF89762E56172F0075EBE1 /* Build configuration list for PBXNativeTarget "illumidel-micUITests" */;
 			buildPhases = (
 				3FFF89622E56172F0075EBE1 /* Sources */,
 				3FFF89632E56172F0075EBE1 /* Frameworks */,
@@ -154,13 +154,13 @@
 				3FFF89682E56172F0075EBE1 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				3FFF89692E56172F0075EBE1 /* wled-micUITests */,
+				3FFF89692E56172F0075EBE1 /* illumidel-micUITests */,
 			);
-			name = "wled-micUITests";
+			name = "illumidel-micUITests";
 			packageProductDependencies = (
 			);
-			productName = "wled-micUITests";
-			productReference = 3FFF89662E56172F0075EBE1 /* wled-micUITests.xctest */;
+			productName = "illumidel-micUITests";
+			productReference = 3FFF89662E56172F0075EBE1 /* illumidel-micUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -186,7 +186,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3FFF894A2E56172E0075EBE1 /* Build configuration list for PBXProject "wled-mic" */;
+			buildConfigurationList = 3FFF894A2E56172E0075EBE1 /* Build configuration list for PBXProject "illumidel-mic" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -200,9 +200,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3FFF894E2E56172E0075EBE1 /* wled-mic */,
-				3FFF895B2E56172F0075EBE1 /* wled-micTests */,
-				3FFF89652E56172F0075EBE1 /* wled-micUITests */,
+				3FFF894E2E56172E0075EBE1 /* illumidel-mic */,
+				3FFF895B2E56172F0075EBE1 /* illumidel-micTests */,
+				3FFF89652E56172F0075EBE1 /* illumidel-micUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -258,12 +258,12 @@
 /* Begin PBXTargetDependency section */
 		3FFF895E2E56172F0075EBE1 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 3FFF894E2E56172E0075EBE1 /* wled-mic */;
+			target = 3FFF894E2E56172E0075EBE1 /* illumidel-mic */;
 			targetProxy = 3FFF895D2E56172F0075EBE1 /* PBXContainerItemProxy */;
 		};
 		3FFF89682E56172F0075EBE1 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 3FFF894E2E56172E0075EBE1 /* wled-mic */;
+			target = 3FFF894E2E56172E0075EBE1 /* illumidel-mic */;
 			targetProxy = 3FFF89672E56172F0075EBE1 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -407,7 +407,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "me.alexw.wled-mic";
+				PRODUCT_BUNDLE_IDENTIFIER = "me.alexw.illumidel-mic";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -434,7 +434,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "me.alexw.wled-mic";
+				PRODUCT_BUNDLE_IDENTIFIER = "me.alexw.illumidel-mic";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -451,12 +451,12 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "me.alexw.wled-micTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "me.alexw.illumidel-micTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/wled-mic.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/wled-mic";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/illumidel-mic.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/illumidel-mic";
 			};
 			name = Debug;
 		};
@@ -469,12 +469,12 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "me.alexw.wled-micTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "me.alexw.illumidel-micTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/wled-mic.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/wled-mic";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/illumidel-mic.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/illumidel-mic";
 			};
 			name = Release;
 		};
@@ -485,12 +485,12 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "me.alexw.wled-micUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "me.alexw.illumidel-micUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "wled-mic";
+				TEST_TARGET_NAME = "illumidel-mic";
 			};
 			name = Debug;
 		};
@@ -501,19 +501,19 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "me.alexw.wled-micUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "me.alexw.illumidel-micUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "wled-mic";
+				TEST_TARGET_NAME = "illumidel-mic";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3FFF894A2E56172E0075EBE1 /* Build configuration list for PBXProject "wled-mic" */ = {
+		3FFF894A2E56172E0075EBE1 /* Build configuration list for PBXProject "illumidel-mic" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3FFF896E2E56172F0075EBE1 /* Debug */,
@@ -522,7 +522,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3FFF89702E56172F0075EBE1 /* Build configuration list for PBXNativeTarget "wled-mic" */ = {
+		3FFF89702E56172F0075EBE1 /* Build configuration list for PBXNativeTarget "illumidel-mic" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3FFF89712E56172F0075EBE1 /* Debug */,
@@ -531,7 +531,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3FFF89732E56172F0075EBE1 /* Build configuration list for PBXNativeTarget "wled-micTests" */ = {
+		3FFF89732E56172F0075EBE1 /* Build configuration list for PBXNativeTarget "illumidel-micTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3FFF89742E56172F0075EBE1 /* Debug */,
@@ -540,7 +540,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3FFF89762E56172F0075EBE1 /* Build configuration list for PBXNativeTarget "wled-micUITests" */ = {
+		3FFF89762E56172F0075EBE1 /* Build configuration list for PBXNativeTarget "illumidel-micUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3FFF89772E56172F0075EBE1 /* Debug */,

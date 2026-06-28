@@ -1,13 +1,13 @@
 //
-//  wled_micUITests.swift
-//  wled-micUITests
+//  illumidel_micUITests.swift
+//  illumidel-micUITests
 //
 //  Created by Alex Volkov on 8/20/25.
 //
 
 import XCTest
 
-final class wled_micUITests: XCTestCase {
+final class illumidel_micUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
